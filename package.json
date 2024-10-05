@@ -1,0 +1,30 @@
+{
+  "name": "batch-document-transitions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owl352/batch-document-transitions.git"
+  },
+  "author": "owl352",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owl352/batch-document-transitions/issues"
+  },
+  "homepage": "https://github.com/owl352/batch-document-transitions#readme",
+  "dependencies": {
+    "@dashevo/dapi-grpc": "^1.1.1",
+    "@dashevo/wasm-dpp": "^1.3.1",
+    "@dashincubator/secp256k1": "^1.7.1-5",
+    "bs58": "^6.0.0",
+    "cbor": "^9.0.2",
+    "dashhd": "^3.3.3",
+    "dashkeys": "^1.1.5",
+    "dashphrase": "^1.4.0",
+    "dashtx": "^0.20.1",
+    "entropy-string": "^4.2.0"
+  }
+}
